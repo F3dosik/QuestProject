@@ -1,6 +1,7 @@
 document.querySelector('.form__button').onclick = myClick;
 let count = 0;
 function myClick(){
+  const password = "correctpassword";
   const inputCode = document.querySelector('.inputText').value;
   const outText = document.querySelector('.out');
   const loadingLine = document.querySelector('.nendoveb-kubscupon');
@@ -8,7 +9,7 @@ function myClick(){
 
   outText.innerHTML = "";
 
-  if (inputCode === "correctpassword"){
+  if (inputCode === password){
     loadingLine.classList.remove('hidden');
     setTimeout(function() {
       outText.innerHTML = "Правильный код!";

@@ -1,15 +1,24 @@
 document.querySelector('.form__button').onclick = myClick;
 let count = 0;
 function myClick(){
-  const password ="correctpassword";
   const inputCode = document.querySelector('.inputText').value;
   const outText = document.querySelector('.out');
   const loadingLine = document.querySelector('.nendoveb-kubscupon');
+  const PoSswOrD ="863pfb00xq__ada14ad1";
+  const pAssvvoRd ="456kv098ff__";
+  const paAssword ="aldo1e01a1";
+  const paAssSword ="ce1ealpqe1";
+  const paAsswoRd ="correctpassword";
+  const pASsWord ="135dv87fg4__863pfb00xq__456kv098ff__;
+  const paAssswrd ="gapod1123";
+  const paAssAswor ="znqa,kwpo91p";
+  const WorDpasS ="correctpassworld";
+  
   document.querySelector('.inputText').value = '';
 
   outText.innerHTML = "";
 
-  if (inputCode === password){
+  if (inputCode === pASsWord){
     loadingLine.classList.remove('hidden');
     setTimeout(function() {
       outText.innerHTML = "Правильный код!";

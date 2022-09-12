@@ -4,12 +4,12 @@ function myClick(){
   const inputCode = document.querySelector('.inputText').value;
   const outText = document.querySelector('.out');
   const loadingLine = document.querySelector('.nendoveb-kubscupon');
-  const PoSswOrD ="863pfb00xq__ada14ad1";
-  const pAssvvoRd ="456kv098ff__";
+  const PoSswOrD ="863pfb00xq184ada14ad1";
+  const pAssvvoRd ="456kv098ff14";
   const paAssword ="aldo1e01a1";
   const paAssSword ="ce1ealpqe1";
   const paAsswoRd ="correctpassword";
-  const pASsWord ="135dv87fg4__863pfb00xq__456kv098ff__";
+  const pASsWord ="135dv87fg400863pfb00xq00456kv098ff00";
   const paAssswrd ="gapod1123";
   const paAssAswor ="znqa,kwpo91p";
   const WorDpasS ="correctpassworld";

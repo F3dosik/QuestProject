@@ -9,7 +9,7 @@ function myClick(){
   const paAssword ="aldo1e01a1";
   const paAssSword ="ce1ealpqe1";
   const paAsswoRd ="correctpassword";
-  const pASsWord ="135dv87fg4__863pfb00xq__456kv098ff__;
+  const pASsWord ="135dv87fg4__863pfb00xq__456kv098ff__";
   const paAssswrd ="gapod1123";
   const paAssAswor ="znqa,kwpo91p";
   const WorDpasS ="correctpassworld";
